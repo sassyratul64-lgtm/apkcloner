@@ -1,0 +1,4 @@
+androguard
+Pillow
+rich
+pytest
